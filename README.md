@@ -10,7 +10,6 @@ Passionate about technology, innovation, and problem-solving. I specialize in fu
 - 👯 **I’m looking to collaborate on:** Python, Golang, and Docker-related projects.  
 - 🤔 **I’m looking for help with:** Anything related to what I am currently learning 😅.  
 - 💬 **Ask me about:** Software engineering, databases, and quantum computing.  
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/cristianlavao) | [GitHub](https://github.com/CristianLavao) | [X](https://x.com/LavaoCristian).  
 - 😄 **Pronouns:** He/Him.  
 - ⚡ **Fun fact:** I'm discovering that creating content for social media is a lot like programming: you need creativity, strategy, and a good algorithm... but in this case, the algorithm is Instagram's, not Python's! 😆🚀
 
