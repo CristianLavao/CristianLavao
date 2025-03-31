@@ -22,8 +22,8 @@ Passionate about technology, innovation, and problem-solving. I specialize in fu
 ### ☁️ Cloud & Quantum Computing
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
-![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-8A2BE2?style=for-the-badge&logo=quantum&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-8A2BE2?style=for-the-badge&logo=quip&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
