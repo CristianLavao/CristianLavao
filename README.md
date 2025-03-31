@@ -18,6 +18,8 @@ Passionate about technology, innovation, and problem-solving. I specialize in fu
 ![React (Learning)](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&label=Learning)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Scala (Occasionally)](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&label=Occasionally)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white")
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white")
 
 ### ☁️ Cloud & Quantum Computing
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
